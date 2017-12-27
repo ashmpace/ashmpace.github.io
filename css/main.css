@@ -17,6 +17,7 @@ ul li{
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
+    vertical-align: middle;
 }
 a {
     text-decoration: none;
