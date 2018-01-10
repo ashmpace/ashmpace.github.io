@@ -46,7 +46,7 @@ aside {
 
 /*Images*/
 img {
-    padding: 0px;
+    padding-top: 10px;
     height: auto;
     width: auto;
     max-width: 100%;
